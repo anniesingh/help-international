@@ -2,9 +2,9 @@
 
 ### Summary
 
-An NGO works for the people of backward countries during the time of disasters
+An NGO works for the people of underdeveloped countries during the time of disasters
 and natural calamities, and requires to determine the list of countries which need
-more funds based on socio-economic factors.
+more funds based on various socio-economic factors.
 
 ### How to run?
 
